@@ -3,108 +3,108 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>చిరునామా లేదా లేబుల్ సవరించడానికి రైట్-క్లిక్ చేయండి</translation>
+        <translation>చిరునామా లేదా లేబుల్ను సవరించడానికి కుడి క్లిక్ చేయండి</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>క్రొత్త చిరునామా సృష్టించండి</translation>
+        <translation>కొత్త చిరునామాను సృష్టించండి</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;క్రొత్త</translation>
+        <translation>&amp;కొత్త</translation>
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>ప్రస్తుతం ఎంచుకున్న చిరునామాను సిస్టం క్లిప్ బోర్డుకు కాపీ చేయండి</translation>
+        <translation>ప్రస్తుతం ఎంచుకున్న అడ్రసును సిస్టమ్ క్లిప్బోర్డ్కు కాపీ చేయండి</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;కాపి</translation>
+        <translation>&amp;కాపీ</translation>
     </message>
     <message>
-        <source>C&amp;lose</source>
-        <translation>C&amp;కోల్పోవు</translation>
+        <source>&amp;Close</source>
+        <translation>&amp;మూయు</translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>ప్రస్తుతం ఎంచుకున్న చిరునామా ను జాబితా నుండి తీసివేయండి</translation>
+        <translation>జాబితా నుండి ప్రస్తుతం ఎంచుకున్న చిరునామాను తొలగించండి</translation>
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>పంపించే చిరునామాలు</translation>
+        <translation>పంపించు చిరునామాలు</translation>
     </message>
     <message>
         <source>Receiving addresses</source>
-        <translation>అందుకునే చిరునామాలు</translation>
+        <translation>స్వీకరించు చిరునామాలు</translation>
     </message>
     <message>
         <source>These are your HTMLCOIN addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>ఇవి మీరు పంపే చెల్లింపుల బిట్‌కాయిన్ చిరునామాలు. నాణేలు పంపే ముందు ప్రతిసారి అందుకునే చిరునామా మరియు చెల్లింపు మొత్తం సరిచూసుకోండి.</translation>
+        <translation>ఇవి మీరు పంపే చెల్లింపుల హెచ్టియంఎల్ కాయిన్ చిరునామాలు. ఎల్లప్పుడూ కాయిన్స్ను పంపేముందు మొత్తాన్ని మరియు స్వీకరించే చిరునామాను తనిఖీ చేయండి.</translation>
     </message>
     <message>
         <source>These are your HTMLCOIN addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>ఇవి మీరు అందుకునే చెల్లింపుల బిట్‌కాయిన్ చిరునామాలు. ప్రతీ లావాదేవీకి క్రొత్త అందుకునే చిరునామా వాడటం మంచిది.</translation>
+        <translation>ఇవి మీరు స్వీకరించే చెల్లింపుల హెచ్టియంఎల్ కాయిన్ చిరునామాలు. ప్రతి లావాదేవీకి కొత్త స్వీకరణ చిరునామాను ఉపయోగించడం, సిఫార్సు చేయబడింది.</translation>
     </message>
     <message>
         <source>Export Address List</source>
-        <translation>చిరునామా జాబితాను ఎగుమతి చేయండి</translation>
+        <translation>చిరునామా జాబితాను ఎగుమతి చేయు</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>ఎగుమతి విఫలమయ్యింది</translation>
+        <translation>ఎగుమతి విఫలమైంది</translation>
     </message>
     </context>
 <context>
     <name>AddressTableModel</name>
     <message>
         <source>Label</source>
-        <translation>ఉల్లాకు</translation>
+        <translation>లేబుల్</translation>
     </message>
     </context>
 <context>
     <name>AskPassphraseDialog</name>
     <message>
         <source>Passphrase Dialog</source>
-        <translation>సంకేతపదము డైలాగ్</translation>
+        <translation>పాస్ఫ్రేజ్ డైలాగ్</translation>
     </message>
     <message>
         <source>Enter passphrase</source>
-        <translation>సంకేతపదము చేర్చండి</translation>
+        <translation>పాస్ఫ్రేజ్ని నమోదు చేయండి</translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>క్రొత్త సంకేతపదము</translation>
+        <translation>కొత్త పాస్ఫ్రేజ్</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>క్రొత్త సంకేతపదము మరలా ఇవ్వండి</translation>
+        <translation>కొత్త పాస్ఫ్రేజ్ని పునరావృతం చేయండి</translation>
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>జోలెకు క్రొత్త సంకేతపదము ఇవ్వండి.&lt;br/&gt; &lt;b&gt;పది లేదా ఎక్కువ యాదృచ్ఛిక అక్షరాలు&lt;/b&gt;, లేక &lt;b&gt;ఎనిమిది కంటే ఎక్కువ పదాలు&lt;/b&gt; కలిగి ఉన్న సంకేతపదము దయచేసి వాడండి.</translation>
+        <translation>వాలెట్కు కొత్త పాస్ఫ్రేజ్ని నమోదు చెయ్యండి. & Lt; br / & gt; దయచేసి & lt; b & gt; పది లేదా అంతకంటే యాదృచ్ఛిక అక్షరాలను & lt; / b & gt ;, లేదా & lt; b & gt; ఎనిమిది లేదా అంతకంటే ఎక్కువ పదాల & lt; / b & gt; యొక్క పాస్ఫ్రేజ్ని ఉపయోగించండి.</translation>
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR HTMLCOIN&lt;/b&gt;!</source>
-        <translation>హెచ్చరిక: మీ జోలెని సంకేతపరిచి మీ సంకేతపదము కోల్పోతే, &lt;b&gt;మీ బిట్‌కాయిన్లు అన్నీ కోల్పోతారు&lt;/b&gt;</translation>
+        <translation>హెచ్చరిక: మీరు మీ వాలెట్ని గుప్తీకరించినట్లయితే మరియు మీ పాస్ఫ్రేజ్ను కోల్పోతే, మీరు మీ హెచ్టియంఎల్ కాయిన్స్ను & lt; b & gt; కోల్పోతారు & lt; / b & gt;</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>మీరు ఖచ్చితంగా మీ జోలెని సంకేతపరచాలని కోరుకుంటున్నారా?</translation>
+        <translation>మీరు ఖచ్చితంగా మీ వాలెట్ను గుప్తీకరించాలనుకుంటున్నారా?</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>జోలె సంకేతపరబడింది</translation>
+        <translation>వాలెట్ గుప్తీకరించబడింది</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
-        <translation>జోలె సంకేతపరచడం విఫలమయ్యింది</translation>
+        <translation>వాలెట్ గుప్తీకరణ విఫలమైంది</translation>
     </message>
     </context>
 <context>
     <name>BanTableModel</name>
     </context>
 <context>
-    <name>QtumGUI</name>
+    <name>HTMLGUI</name>
     <message>
         <source>Error</source>
         <translation>లోపం</translation>
@@ -115,7 +115,7 @@
     </message>
     <message>
         <source>Information</source>
-        <translation>వర్తమానము</translation>
+        <translation>సమాచారం</translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -123,18 +123,18 @@
     </message>
     <message>
         <source>Connecting to peers...</source>
-        <translation>తోటివాళ్లతో అనుసంధానం కుదురుస్తుంది</translation>
+        <translation>పీర్స్కు అనుసంధానించబడుతుంది...</translation>
     </message>
     </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>నాణెం ఎంపిక</translation>
+        <translation>కాయిన్ ఎంపిక</translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>పరిమాణం</translation>
+        <translation>మొత్తము :</translation>
     </message>
     </context>
 <context>
@@ -190,21 +190,21 @@
     <name>ReceiveRequestDialog</name>
     <message>
         <source>Label</source>
-        <translation>ఉల్లాకు</translation>
+        <translation>లేబుల్</translation>
     </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
     <message>
         <source>Label</source>
-        <translation>ఉల్లాకు</translation>
+        <translation>లేబుల్</translation>
     </message>
     </context>
 <context>
     <name>SendCoinsDialog</name>
     <message>
         <source>Quantity:</source>
-        <translation>పరిమాణం</translation>
+        <translation>మొత్తము :</translation>
     </message>
     </context>
 <context>
@@ -235,18 +235,18 @@
     <name>TransactionTableModel</name>
     <message>
         <source>Label</source>
-        <translation>ఉల్లాకు</translation>
+        <translation>లేబుల్</translation>
     </message>
     </context>
 <context>
     <name>TransactionView</name>
     <message>
         <source>Label</source>
-        <translation>ఉల్లాకు</translation>
+        <translation>లేబుల్</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>ఎగుమతి విఫలమయ్యింది</translation>
+        <translation>ఎగుమతి విఫలమైంది</translation>
     </message>
     </context>
 <context>
@@ -262,10 +262,10 @@
     <name>WalletView</name>
     </context>
 <context>
-    <name>qtum-core</name>
+    <name>html-core</name>
     <message>
         <source>Information</source>
-        <translation>వర్తమానము</translation>
+        <translation>సమాచారం</translation>
     </message>
     <message>
         <source>Warning</source>
